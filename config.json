@@ -20,5 +20,68 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "종합체육관": {
+      "style": "glass",
+      "wall": "#c8ccd0",
+      "glass": "#4f8494",
+      "frame": "#a0a8ac"
+    },
+    "D동": {
+      "style": "brick",
+      "wall": "#9c6e68",
+      "glass": "#3a4450",
+      "frame": "#c8c4be"
+    },
+    "세종관": {
+      "style": "glass",
+      "wall": "#b0a493",
+      "glass": "#4f7a7c",
+      "frame": "#c8c8c0"
+    },
+    "E동": {
+      "style": "brick",
+      "wall": "#8f6466",
+      "glass": "#3a4450",
+      "frame": "#cfcac4"
+    },
+    "새로암기숙사": {
+      "style": "dorm",
+      "wall": "#8a5c58",
+      "glass": "#3a4450",
+      "frame": "#cfcac4"
+    },
+    "B동": {
+      "style": "brick",
+      "wall": "#8e6466",
+      "glass": "#3a4450",
+      "frame": "#cfcac4"
+    },
+    "문정도서관": {
+      "style": "brick",
+      "wall": "#a3746a",
+      "glass": "#3a3836",
+      "frame": "#d2cdc6"
+    },
+    "홍익아트홀": {
+      "style": "tan",
+      "wall": "#beae97",
+      "glass": "#2e3234",
+      "frame": "#8a5a40"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#7c6464",
+      "glass": "#3a4a60",
+      "frame": "#a8a8b0"
+    },
+    "A동": {
+      "style": "brick",
+      "wall": "#9a6a64",
+      "glass": "#4a6a7a",
+      "frame": "#cfcac4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
